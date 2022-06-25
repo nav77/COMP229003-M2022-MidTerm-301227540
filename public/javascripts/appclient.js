@@ -1,7 +1,8 @@
 // Filename: appclient.js
 // Student: Navya Biju Jose
 // StudentId: 301227540
-// Date: Jun 02, 2022
+// Date: Jun 25, 2022
+// Web app name: Midterm Test 
 
 console.log('app script is working.');
 
